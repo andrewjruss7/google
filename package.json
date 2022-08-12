@@ -1,0 +1,14 @@
+{
+  "name": "valentina_7_palos",
+  "version": "1.0.0",
+  "description": "xxx",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
